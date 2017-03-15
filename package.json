@@ -1,0 +1,20 @@
+{
+  "name": "jsnovice",
+  "version": "0.0.1",
+  "description": "This is my personal website. Starting brick by brick :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsaraswati/jsnovice.git"
+  },
+  "keywords": [],
+  "author": "Dayanand saraswati <dayanandsroy@gmail.com>",
+  "license": "SEE LICENSE",
+  "bugs": {
+    "url": "https://github.com/dsaraswati/jsnovice/issues"
+  },
+  "homepage": "https://github.com/dsaraswati/jsnovice#readme"
+}
