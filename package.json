@@ -16,5 +16,18 @@
   "bugs": {
     "url": "https://github.com/dsaraswati/jsnovice/issues"
   },
-  "homepage": "https://github.com/dsaraswati/jsnovice#readme"
+  "homepage": "https://github.com/dsaraswati/jsnovice#readme",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "cookie-parser": "1.4.3",
+    "express": "4.16.2",
+    "lusca": "1.5.2",
+    "mongoose": "4.13.7",
+    "yaml": "0.3.0"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-copy": "1.0.1",
+    "jasmine-node": "1.14.5"
+  }
 }
